@@ -21,8 +21,8 @@ KEY = "6rk0aZHmgkUD"
 #CM:移动 CU:联通 CT:电信
 #修改需要更改的dnspod域名核子域名
 DOMAINS = {
-    "coolbyte.org": {"@": ["CM","CU","CT"], "cdn": ["CM", "CU", "CT"], "pan": ["CM","CU","CT"]}}
-}
+    "coolbyte.org": {"@": ["CM","CU","CT"], "cdn": ["CM", "CU", "CT"], "pan": ["CM","CU","CT"]}
+    }
 
 #解析生效条数 免费的DNSPod相同线路最多支持2条解析
 AFFECT_NUM = 10
